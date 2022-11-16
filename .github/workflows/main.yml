@@ -17,6 +17,6 @@ jobs:
       with:
         python-version: "3.11"
         cache: "pipenv"
-        run: pipenv install --python `which python`
+    - run: pipenv install --python `which python`
     - name: Run that scraper, please
       run: python scrape.py
