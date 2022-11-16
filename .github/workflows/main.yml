@@ -1,1 +1,21 @@
+name: Scrape Oakland calls for service
 
+on:
+  schedule:
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+
+  jobs:
+    scrape:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - name: Install package manager for deps
+          run: pipx install pipenv
+        - uses: actions/setup-python@v2
+          with:
+            python-version: "3.11"
+            cache: "pipenv"
+          run: pipenv install --python `which python`
+        - name: Run that scraper, please
+        run: python scrape.py
