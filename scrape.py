@@ -23,16 +23,32 @@ def write_raw(data, location):
         json.dump(data, f, indent=4)
 
 
-#  TODO: match the existing csv; all the data is there in the response just waiting for us 
-# def process_raw_data(feature):
-#     yield json.dumps(feature)
+def process_raw_data(feature):
+    row = feature["properties"]
+    yield row
 
 
 def write_to_csv(data, location):
+    # as these are what go into the csv, I really, really want
+    # to make them more human-readable
     fieldnames = [
-        "type",
-        "geometry",
-        "properties"
+        "OBJECTID",
+        "I_EVENTNUMBER",
+        "LOCATION",
+        "STREET",
+        "CALL_ID",
+        "CALL_DESC",
+        "CALL_DATE",
+        "I_MAPX",
+        "I_MAPY",
+        "I_STATUSID",
+        "ILO_BEAT",
+        "I_REPORTINGDISTRICT",
+        "CALL_DATE_STR",
+        "TIMEUPDATE",
+        "POL_BEAT",
+        "POL_DIST",
+        "POL_SECT"
     ]
 
     with open(location, "w") as f:
@@ -40,10 +56,25 @@ def write_to_csv(data, location):
         writer.writeheader()
 
         for row in data:
+            row = next(row)
             writer.writerow({
-                "type": row["type"],
-                "geometry": row["geometry"],
-                "properties": row["properties"]
+                "OBJECTID": row["OBJECTID"],
+                "I_EVENTNUMBER": row["I_EVENTNUMBER"],
+                "LOCATION": row["LOCATION"],
+                "STREET": row["STREET"],
+                "CALL_ID": row["CALL_ID"],
+                "CALL_DESC": row["CALL_DESC"],
+                "CALL_DATE": row["CALL_DATE"],
+                "I_MAPX": row["I_MAPX"],
+                "I_MAPY": row["I_MAPY"],
+                "I_STATUSID": row["I_STATUSID"],
+                "ILO_BEAT": row["ILO_BEAT"],
+                "I_REPORTINGDISTRICT": row["I_REPORTINGDISTRICT"],
+                "CALL_DATE_STR": row["CALL_DATE_STR"],
+                "TIMEUPDATE": row["TIMEUPDATE"],
+                "POL_BEAT": row["POL_BEAT"],
+                "POL_DIST": row["POL_DIST"],
+                "POL_SECT": row["POL_SECT"]
             })
 
 
@@ -54,8 +85,8 @@ def run_the_jewels(target, location_raw, location_csv):
     raw_as_list = list(raw)
     write_raw(raw_as_list, location_raw)
 
-    # processed = (process_raw_data(feature) for feature in raw_as_list)
-    write_to_csv(raw_as_list, location_csv)
+    processed = (process_raw_data(feature) for feature in raw_as_list)
+    write_to_csv(processed, location_csv)
 
 
 if __name__ == "__main__":
