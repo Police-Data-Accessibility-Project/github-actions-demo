@@ -18,6 +18,7 @@ jobs:
       with:
         python-version: "3.11"
         cache: "pipenv"
-    - run: pipenv install --deploy --dev
+    - name: Install deps
+      run: pipenv install
     - name: Run that scraper, please
       run: python scrape.py
