@@ -60,7 +60,7 @@ def run_the_jewels(target, location_raw, location_csv):
 
 if __name__ == "__main__":
     stub_filename = "oakland_calls_for_service"
-    filename_raw = f"raw/{stub_filename}-{date.today()}"
-    filename_csv = f"csv/{stub_filename}-{date.today()}"
+    filename_raw = f"raw/{stub_filename}-{date.today()}.json"
+    filename_csv = f"csv/{stub_filename}-{date.today()}.csv"
 
     run_the_jewels(TARGET_LAYER, filename_raw, filename_csv)
