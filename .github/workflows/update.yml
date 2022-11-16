@@ -3,7 +3,7 @@ name: Scrape Oakland calls for service
 
 on:
   schedule:
-  - cron: "0 8 * * *"
+  - cron: "0 19 * * *"
   workflow_dispatch:
 
 jobs:
@@ -22,3 +22,11 @@ jobs:
       run: pipenv install
     - name: Run that scraper, please
       run: pipenv run python scrape.py
+
+    - name: Add and commit
+      id: add_commit
+      uses: EndBug/add-and-commit@v8
+      with:
+        committer_name: Automated
+        committer_email: actions@users.noreply.github.com
+        message: "Latest data ${{ `date -u` }}"
