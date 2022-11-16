@@ -96,499 +96,6 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -122.1710796,
-                37.7531108
-            ]
-        },
-        "properties": {
-            "OBJECTID": 1634584,
-            "I_EVENTNUMBER": "LOP221114001008",
-            "LOCATION": "1821 88TH AV",
-            "STREET": "88TH AV",
-            "CALL_ID": "911C",
-            "CALL_DESC": "911 HANG UP FROM CP",
-            "CALL_DATE": 1668463827000,
-            "I_MAPX": 6078576,
-            "I_MAPY": 2100998,
-            "I_STATUSID": "C",
-            "ILO_BEAT": "34X",
-            "I_REPORTINGDISTRICT": "CCD7",
-            "CALL_DATE_STR": "11/14/22 10:10:27 PM",
-            "TIMEUPDATE": 1668489172000,
-            "POL_BEAT": "34",
-            "POL_DIST": "5",
-            "POL_SECT": "3"
-        }
-    },
-    {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -122.1815875,
-                37.727342
-            ]
-        },
-        "properties": {
-            "OBJECTID": 1634585,
-            "I_EVENTNUMBER": "LOP221114001010",
-            "LOCATION": "105TH AV&CREEKSIDE CIR",
-            "STREET": "AV&CREEKSIDE CIR",
-            "CALL_ID": "415GS",
-            "CALL_DESC": "415 GUNSHOTS",
-            "CALL_DATE": 1668463940000,
-            "I_MAPX": 6075370,
-            "I_MAPY": 2091671,
-            "I_STATUSID": "C",
-            "ILO_BEAT": "31Z",
-            "I_REPORTINGDISTRICT": "CCD7",
-            "CALL_DATE_STR": "11/14/22 10:12:20 PM",
-            "TIMEUPDATE": 1668467359000,
-            "POL_BEAT": "31",
-            "POL_DIST": "5",
-            "POL_SECT": "3"
-        }
-    },
-    {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -122.2757662,
-                37.8180229
-            ]
-        },
-        "properties": {
-            "OBJECTID": 1634586,
-            "I_EVENTNUMBER": "LOP221114001012",
-            "LOCATION": "2743 SAN PABLO AV",
-            "STREET": "SAN PABLO AV",
-            "CALL_ID": "415C",
-            "CALL_DESC": "415 UNKNOWN",
-            "CALL_DATE": 1668464102000,
-            "I_MAPX": 6048764,
-            "I_MAPY": 2125187,
-            "I_STATUSID": "C",
-            "ILO_BEAT": "07X",
-            "I_REPORTINGDISTRICT": "CCD3",
-            "CALL_DATE_STR": "11/14/22 10:15:02 PM",
-            "TIMEUPDATE": 1668466549000,
-            "POL_BEAT": "7",
-            "POL_DIST": "1",
-            "POL_SECT": "1"
-        }
-    },
-    {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -122.2358833,
-                37.7913217
-            ]
-        },
-        "properties": {
-            "OBJECTID": 1634587,
-            "I_EVENTNUMBER": "LOP221114001013",
-            "LOCATION": "1929 E 21ST ST",
-            "STREET": "E 21ST ST",
-            "CALL_ID": "970B",
-            "CALL_DESC": "AUTO BLOCKING DRIVEW",
-            "CALL_DATE": 1668464274000,
-            "I_MAPX": 6060102,
-            "I_MAPY": 2115250,
-            "I_STATUSID": "C",
-            "ILO_BEAT": "18Y",
-            "I_REPORTINGDISTRICT": "CCD2",
-            "CALL_DATE_STR": "11/14/22 10:17:54 PM",
-            "TIMEUPDATE": 1668468402000,
-            "POL_BEAT": "18",
-            "POL_DIST": "3",
-            "POL_SECT": "2"
-        }
-    },
-    {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -122.1671509,
-                37.7662741
-            ]
-        },
-        "properties": {
-            "OBJECTID": 1634588,
-            "I_EVENTNUMBER": "LOP221114001015",
-            "LOCATION": "2845 PARKER AV",
-            "STREET": "PARKER AV",
-            "CALL_ID": "970B",
-            "CALL_DESC": "AUTO BLOCKING DRIVEW",
-            "CALL_DATE": 1668464441000,
-            "I_MAPX": 6079797,
-            "I_MAPY": 2105770,
-            "I_STATUSID": "C",
-            "ILO_BEAT": "30Y",
-            "I_REPORTINGDISTRICT": "CCD6",
-            "CALL_DATE_STR": "11/14/22 10:20:41 PM",
-            "TIMEUPDATE": 1668533428000,
-            "POL_BEAT": "30",
-            "POL_DIST": "5",
-            "POL_SECT": "3"
-        }
-    },
-    {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -122.2479269,
-                37.8088936
-            ]
-        },
-        "properties": {
-            "OBJECTID": 1634589,
-            "I_EVENTNUMBER": "LOP221114001014",
-            "LOCATION": "2930 LAKESHORE AV",
-            "STREET": "LAKESHORE AV",
-            "CALL_ID": "459AU",
-            "CALL_DESC": "AUTO BURGLARY",
-            "CALL_DATE": 1668464396000,
-            "I_MAPX": 6056742,
-            "I_MAPY": 2121712,
-            "I_STATUSID": "C",
-            "ILO_BEAT": "15X",
-            "I_REPORTINGDISTRICT": "CCD2",
-            "CALL_DATE_STR": "11/14/22 10:19:56 PM",
-            "TIMEUPDATE": 1668464396000,
-            "POL_BEAT": "15",
-            "POL_DIST": "3",
-            "POL_SECT": "2"
-        }
-    },
-    {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -122.2810261,
-                37.8275575
-            ]
-        },
-        "properties": {
-            "OBJECTID": 1634590,
-            "I_EVENTNUMBER": "LOP221114001016",
-            "LOCATION": "36TH ST&PERALTA ST",
-            "STREET": "ST&PERALTA ST",
-            "CALL_ID": "23152",
-            "CALL_DESC": "DUI ALCOHOL/DRUGS",
-            "CALL_DATE": 1668464709000,
-            "I_MAPX": 6047311,
-            "I_MAPY": 2128687,
-            "I_STATUSID": "C",
-            "ILO_BEAT": "07X",
-            "I_REPORTINGDISTRICT": null,
-            "CALL_DATE_STR": "11/14/22 10:25:09 PM",
-            "TIMEUPDATE": 1668466285000,
-            "POL_BEAT": "7",
-            "POL_DIST": "1",
-            "POL_SECT": "1"
-        }
-    },
-    {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -122.2087454,
-                37.7596794
-            ]
-        },
-        "properties": {
-            "OBJECTID": 1634591,
-            "I_EVENTNUMBER": "LOP221114001017",
-            "LOCATION": "722 JULIE ANN WY",
-            "STREET": "JULIE ANN WY",
-            "CALL_ID": "933R",
-            "CALL_DESC": "ALARM-RINGER",
-            "CALL_DATE": 1668464809000,
-            "I_MAPX": 6067732,
-            "I_MAPY": 2103586,
-            "I_STATUSID": "C",
-            "ILO_BEAT": "26X",
-            "I_REPORTINGDISTRICT": "CCD6",
-            "CALL_DATE_STR": "11/14/22 10:26:49 PM",
-            "TIMEUPDATE": 1668472962000,
-            "POL_BEAT": "26",
-            "POL_DIST": "4",
-            "POL_SECT": "3"
-        }
-    },
-    {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -122.2216598,
-                37.7863553
-            ]
-        },
-        "properties": {
-            "OBJECTID": 1634592,
-            "I_EVENTNUMBER": "LOP221114001018",
-            "LOCATION": "2354 FRUITVALE AV",
-            "STREET": "FRUITVALE AV",
-            "CALL_ID": "415C",
-            "CALL_DESC": "415 UNKNOWN",
-            "CALL_DATE": 1668465034000,
-            "I_MAPX": 6064178,
-            "I_MAPY": 2113366,
-            "I_STATUSID": "C",
-            "ILO_BEAT": "21Y",
-            "I_REPORTINGDISTRICT": "CCD5",
-            "CALL_DATE_STR": "11/14/22 10:30:34 PM",
-            "TIMEUPDATE": 1668477498000,
-            "POL_BEAT": "21",
-            "POL_DIST": "3",
-            "POL_SECT": "2"
-        }
-    },
-    {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -122.2199557,
-                37.7747914
-            ]
-        },
-        "properties": {
-            "OBJECTID": 1634593,
-            "I_EVENTNUMBER": "LOP221114001009",
-            "LOCATION": "38TH AV&INTERNATIONAL BLVD",
-            "STREET": "AV&INTERNATIONAL BLVD",
-            "CALL_ID": "415TH",
-            "CALL_DESC": "415 THREATS",
-            "CALL_DATE": 1668463869000,
-            "I_MAPX": 6064593,
-            "I_MAPY": 2109147,
-            "I_STATUSID": "C",
-            "ILO_BEAT": "23X",
-            "I_REPORTINGDISTRICT": "CCD5",
-            "CALL_DATE_STR": "11/14/22 10:11:09 PM",
-            "TIMEUPDATE": 1668463869000,
-            "POL_BEAT": "23",
-            "POL_DIST": "4",
-            "POL_SECT": "2"
-        }
-    },
-    {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -122.2537869,
-                37.8097131
-            ]
-        },
-        "properties": {
-            "OBJECTID": 1634609,
-            "I_EVENTNUMBER": "LOP221114001019",
-            "LOCATION": "424 STATEN AV",
-            "STREET": "STATEN AV",
-            "CALL_ID": "415E",
-            "CALL_DESC": "LOUD MUSIC",
-            "CALL_DATE": 1668465117000,
-            "I_MAPX": 6055055,
-            "I_MAPY": 2122042,
-            "I_STATUSID": "C",
-            "ILO_BEAT": "14X",
-            "I_REPORTINGDISTRICT": "CCD3",
-            "CALL_DATE_STR": "11/14/22 10:31:57 PM",
-            "TIMEUPDATE": 1668472334000,
-            "POL_BEAT": "14",
-            "POL_DIST": "2",
-            "POL_SECT": "2"
-        }
-    },
-    {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -122.2049973,
-                37.7817905
-            ]
-        },
-        "properties": {
-            "OBJECTID": 1634610,
-            "I_EVENTNUMBER": "LOP221114001020",
-            "LOCATION": "2535 HIGH ST",
-            "STREET": "HIGH ST",
-            "CALL_ID": "913TH",
-            "CALL_DESC": "SUICIDE THREATS",
-            "CALL_DATE": 1668465129000,
-            "I_MAPX": 6068962,
-            "I_MAPY": 2111616,
-            "I_STATUSID": "C",
-            "ILO_BEAT": "24X",
-            "I_REPORTINGDISTRICT": "CCD4",
-            "CALL_DATE_STR": "11/14/22 10:32:09 PM",
-            "TIMEUPDATE": 1668467430000,
-            "POL_BEAT": "24",
-            "POL_DIST": "4",
-            "POL_SECT": "2"
-        }
-    },
-    {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -122.2216598,
-                37.7863553
-            ]
-        },
-        "properties": {
-            "OBJECTID": 1634611,
-            "I_EVENTNUMBER": "LOP221114001022",
-            "LOCATION": "2354 FRUITVALE AV",
-            "STREET": "FRUITVALE AV",
-            "CALL_ID": "945A",
-            "CALL_DESC": "AMBULANCE REQUESTED",
-            "CALL_DATE": 1668465347000,
-            "I_MAPX": 6064178,
-            "I_MAPY": 2113366,
-            "I_STATUSID": "C",
-            "ILO_BEAT": "21Y",
-            "I_REPORTINGDISTRICT": "CCD5",
-            "CALL_DATE_STR": "11/14/22 10:35:47 PM",
-            "TIMEUPDATE": 1668465347000,
-            "POL_BEAT": "21",
-            "POL_DIST": "3",
-            "POL_SECT": "2"
-        }
-    },
-    {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -122.2623103,
-                37.83726
-            ]
-        },
-        "properties": {
-            "OBJECTID": 1634612,
-            "I_EVENTNUMBER": "LOP221114001021",
-            "LOCATION": "51ST ST&TELEGRAPH AV",
-            "STREET": "ST&TELEGRAPH AV",
-            "CALL_ID": "415A",
-            "CALL_DESC": "DISTURBANCE-AUTO",
-            "CALL_DATE": 1668465330000,
-            "I_MAPX": 6052782,
-            "I_MAPY": 2132117,
-            "I_STATUSID": "C",
-            "ILO_BEAT": "12X",
-            "I_REPORTINGDISTRICT": "CCD1",
-            "CALL_DATE_STR": "11/14/22 10:35:30 PM",
-            "TIMEUPDATE": 1668472057000,
-            "POL_BEAT": "12",
-            "POL_DIST": "2",
-            "POL_SECT": "1"
-        }
-    },
-    {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -122.1745,
-                37.759053
-            ]
-        },
-        "properties": {
-            "OBJECTID": 1634613,
-            "I_EVENTNUMBER": "LOP221114001023",
-            "LOCATION": "8000 BIRCH ST",
-            "STREET": "BIRCH ST",
-            "CALL_ID": "415C",
-            "CALL_DESC": "415 UNKNOWN",
-            "CALL_DATE": 1668465401000,
-            "I_MAPX": 6077626,
-            "I_MAPY": 2103179,
-            "I_STATUSID": "C",
-            "ILO_BEAT": "30X",
-            "I_REPORTINGDISTRICT": "CCD6",
-            "CALL_DATE_STR": "11/14/22 10:36:41 PM",
-            "TIMEUPDATE": 1668468820000,
-            "POL_BEAT": "30",
-            "POL_DIST": "5",
-            "POL_SECT": "3"
-        }
-    },
-    {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -122.2292497,
-                37.7979373
-            ]
-        },
-        "properties": {
-            "OBJECTID": 1634614,
-            "I_EVENTNUMBER": "LOP221114001026",
-            "LOCATION": "1941 E 30TH ST",
-            "STREET": "E 30TH ST",
-            "CALL_ID": "5150",
-            "CALL_DESC": "MENTALLY ILL",
-            "CALL_DATE": 1668465621000,
-            "I_MAPX": 6062063,
-            "I_MAPY": 2117623,
-            "I_STATUSID": "C",
-            "ILO_BEAT": "18Y",
-            "I_REPORTINGDISTRICT": "CCD5",
-            "CALL_DATE_STR": "11/14/22 10:40:21 PM",
-            "TIMEUPDATE": 1668470447000,
-            "POL_BEAT": "18",
-            "POL_DIST": "3",
-            "POL_SECT": "2"
-        }
-    },
-    {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -122.1558535,
-                37.7457748
-            ]
-        },
-        "properties": {
-            "OBJECTID": 1634615,
-            "I_EVENTNUMBER": "LOP221114001025",
-            "LOCATION": "10038 MACARTHUR BLVD",
-            "STREET": "MACARTHUR BLVD",
-            "CALL_ID": "911C",
-            "CALL_DESC": "911 HANG UP FROM CP",
-            "CALL_DATE": 1668465598000,
-            "I_MAPX": 6082930,
-            "I_MAPY": 2098249,
-            "I_STATUSID": "C",
-            "ILO_BEAT": "32Y",
-            "I_REPORTINGDISTRICT": "CCD7",
-            "CALL_DATE_STR": "11/14/22 10:39:58 PM",
-            "TIMEUPDATE": 1668490931000,
-            "POL_BEAT": "32",
-            "POL_DIST": "5",
-            "POL_SECT": "3"
-        }
-    },
-    {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
                 -122.2012125,
                 37.7638674
             ]
@@ -40652,11 +40159,11 @@
             "CALL_DATE": 1668597120000,
             "I_MAPX": 6063940,
             "I_MAPY": 2112660,
-            "I_STATUSID": "A",
+            "I_STATUSID": "C",
             "ILO_BEAT": "21Y",
             "I_REPORTINGDISTRICT": "CCD5",
             "CALL_DATE_STR": "11/16/22 11:12:00 AM",
-            "TIMEUPDATE": 1668603489000,
+            "TIMEUPDATE": 1668609245000,
             "POL_BEAT": "21",
             "POL_DIST": "3",
             "POL_SECT": "2"
@@ -41493,11 +41000,11 @@
             "CALL_DATE": 1668599556000,
             "I_MAPX": 6055647,
             "I_MAPY": 2121624,
-            "I_STATUSID": "A",
+            "I_STATUSID": "C",
             "ILO_BEAT": "14X",
             "I_REPORTINGDISTRICT": "CCD3",
             "CALL_DATE_STR": "11/16/22 11:52:36 AM",
-            "TIMEUPDATE": 1668600211000,
+            "TIMEUPDATE": 1668609102000,
             "POL_BEAT": "14",
             "POL_DIST": "2",
             "POL_SECT": "2"
@@ -42102,11 +41609,11 @@
             "CALL_DATE": 1668600718000,
             "I_MAPX": 6053514,
             "I_MAPY": 2118015,
-            "I_STATUSID": "A",
+            "I_STATUSID": "C",
             "ILO_BEAT": "19X",
             "I_REPORTINGDISTRICT": "CCD2",
             "CALL_DATE_STR": "11/16/22 12:11:58 PM",
-            "TIMEUPDATE": 1668600720000,
+            "TIMEUPDATE": 1668608617000,
             "POL_BEAT": "19",
             "POL_DIST": "3",
             "POL_SECT": "2"
@@ -43958,11 +43465,11 @@
             "CALL_DATE": 1668604384000,
             "I_MAPX": 6049395,
             "I_MAPY": 2133750,
-            "I_STATUSID": "P",
+            "I_STATUSID": "C",
             "ILO_BEAT": "10Y",
             "I_REPORTINGDISTRICT": "CCD1",
             "CALL_DATE_STR": "11/16/22  1:13:04 PM",
-            "TIMEUPDATE": 1668604384000,
+            "TIMEUPDATE": 1668607745000,
             "POL_BEAT": "10",
             "POL_DIST": "2",
             "POL_SECT": "1"
@@ -44219,11 +43726,11 @@
             "CALL_DATE": 1668604832000,
             "I_MAPX": 6073277,
             "I_MAPY": 2104870,
-            "I_STATUSID": "A",
+            "I_STATUSID": "C",
             "ILO_BEAT": "30X",
             "I_REPORTINGDISTRICT": "CCD6",
             "CALL_DATE_STR": "11/16/22  1:20:32 PM",
-            "TIMEUPDATE": 1668607060000,
+            "TIMEUPDATE": 1668607713000,
             "POL_BEAT": "30",
             "POL_DIST": "5",
             "POL_SECT": "3"
@@ -44364,11 +43871,11 @@
             "CALL_DATE": 1668605054000,
             "I_MAPX": 6070141,
             "I_MAPY": 2092866,
-            "I_STATUSID": "A",
+            "I_STATUSID": "C",
             "ILO_BEAT": "31Y",
             "I_REPORTINGDISTRICT": "CCD7",
             "CALL_DATE_STR": "11/16/22  1:24:14 PM",
-            "TIMEUPDATE": 1668606117000,
+            "TIMEUPDATE": 1668608653000,
             "POL_BEAT": "31",
             "POL_DIST": "5",
             "POL_SECT": "3"
@@ -44451,11 +43958,11 @@
             "CALL_DATE": 1668605281000,
             "I_MAPX": 6049913,
             "I_MAPY": 2129016,
-            "I_STATUSID": "P",
+            "I_STATUSID": "C",
             "ILO_BEAT": "06X",
             "I_REPORTINGDISTRICT": "CCD1",
             "CALL_DATE_STR": "11/16/22  1:28:01 PM",
-            "TIMEUPDATE": 1668605281000,
+            "TIMEUPDATE": 1668609222000,
             "POL_BEAT": "6",
             "POL_DIST": "1",
             "POL_SECT": "1"
@@ -44886,11 +44393,11 @@
             "CALL_DATE": 1668606420000,
             "I_MAPX": 6043655,
             "I_MAPY": 2125544,
-            "I_STATUSID": "A",
+            "I_STATUSID": "C",
             "ILO_BEAT": "05Y",
             "I_REPORTINGDISTRICT": "CCD3",
             "CALL_DATE_STR": "11/16/22  1:47:00 PM",
-            "TIMEUPDATE": 1668606421000,
+            "TIMEUPDATE": 1668608983000,
             "POL_BEAT": "5",
             "POL_DIST": "1",
             "POL_SECT": "1"
@@ -44944,11 +44451,11 @@
             "CALL_DATE": 1668606503000,
             "I_MAPX": 6057901,
             "I_MAPY": 2118121,
-            "I_STATUSID": "P",
+            "I_STATUSID": "C",
             "ILO_BEAT": "17Y",
             "I_REPORTINGDISTRICT": "CCD2",
             "CALL_DATE_STR": "11/16/22  1:48:23 PM",
-            "TIMEUPDATE": 1668606503000,
+            "TIMEUPDATE": 1668609355000,
             "POL_BEAT": "17",
             "POL_DIST": "3",
             "POL_SECT": "2"
@@ -45060,11 +44567,11 @@
             "CALL_DATE": 1668606649000,
             "I_MAPX": 6050958,
             "I_MAPY": 2124206,
-            "I_STATUSID": "A",
+            "I_STATUSID": "C",
             "ILO_BEAT": "08X",
             "I_REPORTINGDISTRICT": "CCD3",
             "CALL_DATE_STR": "11/16/22  1:50:49 PM",
-            "TIMEUPDATE": 1668606650000,
+            "TIMEUPDATE": 1668609445000,
             "POL_BEAT": "8",
             "POL_DIST": "2",
             "POL_SECT": "1"
@@ -45122,7 +44629,7 @@
             "ILO_BEAT": "30X",
             "I_REPORTINGDISTRICT": "CCD7",
             "CALL_DATE_STR": "11/16/22  1:51:10 PM",
-            "TIMEUPDATE": 1668607433000,
+            "TIMEUPDATE": 1668607945000,
             "POL_BEAT": "30",
             "POL_DIST": "5",
             "POL_SECT": "3"
@@ -45379,14 +44886,971 @@
             "CALL_DATE": 1668607507000,
             "I_MAPX": 6051018,
             "I_MAPY": 2120437,
-            "I_STATUSID": "P",
+            "I_STATUSID": "C",
             "ILO_BEAT": "04X",
             "I_REPORTINGDISTRICT": "CCD3",
             "CALL_DATE_STR": "11/16/22  2:05:07 PM",
-            "TIMEUPDATE": 1668607508000,
+            "TIMEUPDATE": 1668608020000,
             "POL_BEAT": "4",
             "POL_DIST": "1",
             "POL_SECT": "1"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.2316984,
+                37.774842
+            ]
+        },
+        "properties": {
+            "OBJECTID": 1636288,
+            "I_EVENTNUMBER": "LOP221116000619",
+            "LOCATION": "3030 E 9TH ST",
+            "STREET": "E 9TH ST",
+            "CALL_ID": "484",
+            "CALL_DESC": "THEFT",
+            "CALL_DATE": 1668607726000,
+            "I_MAPX": 6061200,
+            "I_MAPY": 2109228,
+            "I_STATUSID": "C",
+            "ILO_BEAT": "20X",
+            "I_REPORTINGDISTRICT": "CCD5",
+            "CALL_DATE_STR": "11/16/22  2:08:46 PM",
+            "TIMEUPDATE": 1668607844000,
+            "POL_BEAT": "20",
+            "POL_DIST": "3",
+            "POL_SECT": "2"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.1745692,
+                37.7676467
+            ]
+        },
+        "properties": {
+            "OBJECTID": 1636289,
+            "I_EVENTNUMBER": "LOP221116000620",
+            "LOCATION": "2651 73RD AV",
+            "STREET": "73RD AV",
+            "CALL_ID": "911N",
+            "CALL_DESC": "POLICE RELATED MATTE",
+            "CALL_DATE": 1668607827000,
+            "I_MAPX": 6077662,
+            "I_MAPY": 2106308,
+            "I_STATUSID": "C",
+            "ILO_BEAT": "30Y",
+            "I_REPORTINGDISTRICT": "CCD6",
+            "CALL_DATE_STR": "11/16/22  2:10:27 PM",
+            "TIMEUPDATE": 1668607827000,
+            "POL_BEAT": "30",
+            "POL_DIST": "5",
+            "POL_SECT": "3"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.2559974,
+                37.8250046
+            ]
+        },
+        "properties": {
+            "OBJECTID": 1636290,
+            "I_EVENTNUMBER": "LOP221116000623",
+            "LOCATION": "3801 HOWE ST",
+            "STREET": "HOWE ST",
+            "CALL_ID": "945A",
+            "CALL_DESC": "AMBULANCE REQUESTED",
+            "CALL_DATE": 1668607907000,
+            "I_MAPX": 6054521,
+            "I_MAPY": 2127621,
+            "I_STATUSID": "C",
+            "ILO_BEAT": "09X",
+            "I_REPORTINGDISTRICT": "CCD1",
+            "CALL_DATE_STR": "11/16/22  2:11:47 PM",
+            "TIMEUPDATE": 1668607907000,
+            "POL_BEAT": "9",
+            "POL_DIST": "2",
+            "POL_SECT": "1"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.2766492,
+                37.8097774
+            ]
+        },
+        "properties": {
+            "OBJECTID": 1636291,
+            "I_EVENTNUMBER": "LOP221116000622",
+            "LOCATION": "18TH ST&BRUSH ST",
+            "STREET": "ST&BRUSH ST",
+            "CALL_ID": "945A",
+            "CALL_DESC": "AMBULANCE REQUESTED",
+            "CALL_DATE": 1668607896000,
+            "I_MAPX": 6048452,
+            "I_MAPY": 2122190,
+            "I_STATUSID": "C",
+            "ILO_BEAT": "05X",
+            "I_REPORTINGDISTRICT": "CCD3",
+            "CALL_DATE_STR": "11/16/22  2:11:36 PM",
+            "TIMEUPDATE": 1668607897000,
+            "POL_BEAT": "5",
+            "POL_DIST": "1",
+            "POL_SECT": "1"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.2070194,
+                37.758191
+            ]
+        },
+        "properties": {
+            "OBJECTID": 1636292,
+            "I_EVENTNUMBER": "LOP221116000624",
+            "LOCATION": "733 KEVIN CT",
+            "STREET": "KEVIN CT",
+            "CALL_ID": "R10851",
+            "CALL_DESC": "RECOVERED STOLEN VEH",
+            "CALL_DATE": 1668608009000,
+            "I_MAPX": 6068221,
+            "I_MAPY": 2103035,
+            "I_STATUSID": "P",
+            "ILO_BEAT": "26X",
+            "I_REPORTINGDISTRICT": "CCD6",
+            "CALL_DATE_STR": "11/16/22  2:13:29 PM",
+            "TIMEUPDATE": 1668608011000,
+            "POL_BEAT": "26",
+            "POL_DIST": "4",
+            "POL_SECT": "3"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.1563967,
+                37.7462451
+            ]
+        },
+        "properties": {
+            "OBJECTID": 1636293,
+            "I_EVENTNUMBER": "LOP221116000625",
+            "LOCATION": "9960 MACARTHUR BLVD",
+            "STREET": "MACARTHUR BLVD",
+            "CALL_ID": "243E",
+            "CALL_DESC": "BATTERY ON CO-HABITA",
+            "CALL_DATE": 1668608059000,
+            "I_MAPX": 6082776,
+            "I_MAPY": 2098423,
+            "I_STATUSID": "P",
+            "ILO_BEAT": "32Y",
+            "I_REPORTINGDISTRICT": "CCD7",
+            "CALL_DATE_STR": "11/16/22  2:14:19 PM",
+            "TIMEUPDATE": 1668608065000,
+            "POL_BEAT": "32",
+            "POL_DIST": "5",
+            "POL_SECT": "3"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.2641413,
+                37.8156483
+            ]
+        },
+        "properties": {
+            "OBJECTID": 1636294,
+            "I_EVENTNUMBER": "LOP221116000626",
+            "LOCATION": "27TH ST&BROADWAY",
+            "STREET": "ST&BROADWAY",
+            "CALL_ID": "901",
+            "CALL_DESC": "VEHICLE COLLISION/PR",
+            "CALL_DATE": 1668608095000,
+            "I_MAPX": 6052105,
+            "I_MAPY": 2124259,
+            "I_STATUSID": "P",
+            "ILO_BEAT": "08X",
+            "I_REPORTINGDISTRICT": "CCD3",
+            "CALL_DATE_STR": "11/16/22  2:14:55 PM",
+            "TIMEUPDATE": 1668608096000,
+            "POL_BEAT": "8",
+            "POL_DIST": "2",
+            "POL_SECT": "1"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.1993212,
+                37.7702782
+            ]
+        },
+        "properties": {
+            "OBJECTID": 1636295,
+            "I_EVENTNUMBER": "LOP221116000627",
+            "LOCATION": "1923 55TH AV",
+            "STREET": "55TH AV",
+            "CALL_ID": "R10851",
+            "CALL_DESC": "RECOVERED STOLEN VEH",
+            "CALL_DATE": 1668608192000,
+            "I_MAPX": 6070526,
+            "I_MAPY": 2107395,
+            "I_STATUSID": "P",
+            "ILO_BEAT": "27Y",
+            "I_REPORTINGDISTRICT": "CCD6",
+            "CALL_DATE_STR": "11/16/22  2:16:32 PM",
+            "TIMEUPDATE": 1668608212000,
+            "POL_BEAT": "27",
+            "POL_DIST": "4",
+            "POL_SECT": "3"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.2746217,
+                37.8038968
+            ]
+        },
+        "properties": {
+            "OBJECTID": 1636296,
+            "I_EVENTNUMBER": "LOP221116000628",
+            "LOCATION": "555 12TH ST",
+            "STREET": "12TH ST",
+            "CALL_ID": "911H",
+            "CALL_DESC": "911 HANG-UP",
+            "CALL_DATE": 1668608207000,
+            "I_MAPX": 6048997,
+            "I_MAPY": 2120038,
+            "I_STATUSID": "C",
+            "ILO_BEAT": "03Y",
+            "I_REPORTINGDISTRICT": "CCD3",
+            "CALL_DATE_STR": "11/16/22  2:16:47 PM",
+            "TIMEUPDATE": 1668609381000,
+            "POL_BEAT": "3",
+            "POL_DIST": "1",
+            "POL_SECT": "1"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.2878553,
+                37.8048451
+            ]
+        },
+        "properties": {
+            "OBJECTID": 1636297,
+            "I_EVENTNUMBER": "LOP221116000629",
+            "LOCATION": "8TH ST&ADELINE ST",
+            "STREET": "ST&ADELINE ST",
+            "CALL_ID": "SECCK",
+            "CALL_DESC": "SECURITY CHECK",
+            "CALL_DATE": 1668608277000,
+            "I_MAPX": 6045181,
+            "I_MAPY": 2120456,
+            "I_STATUSID": "A",
+            "ILO_BEAT": "02X",
+            "I_REPORTINGDISTRICT": "CCD3",
+            "CALL_DATE_STR": "11/16/22  2:17:57 PM",
+            "TIMEUPDATE": 1668608277000,
+            "POL_BEAT": "2",
+            "POL_DIST": "1",
+            "POL_SECT": "1"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.2669187,
+                37.8041745
+            ]
+        },
+        "properties": {
+            "OBJECTID": 1636298,
+            "I_EVENTNUMBER": "LOP221116000632",
+            "LOCATION": "1535 HARRISON ST",
+            "STREET": "HARRISON ST",
+            "CALL_ID": "911H",
+            "CALL_DESC": "911 HANG-UP",
+            "CALL_DATE": 1668608423000,
+            "I_MAPX": 6051224,
+            "I_MAPY": 2120097,
+            "I_STATUSID": "C",
+            "ILO_BEAT": "04X",
+            "I_REPORTINGDISTRICT": "CCD3",
+            "CALL_DATE_STR": "11/16/22  2:20:23 PM",
+            "TIMEUPDATE": 1668608477000,
+            "POL_BEAT": "4",
+            "POL_DIST": "1",
+            "POL_SECT": "1"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.2663572,
+                37.8219026
+            ]
+        },
+        "properties": {
+            "OBJECTID": 1636299,
+            "I_EVENTNUMBER": "LOP221116000633",
+            "LOCATION": "3330 TELEGRAPH AV",
+            "STREET": "TELEGRAPH AV",
+            "CALL_ID": "945A",
+            "CALL_DESC": "AMBULANCE REQUESTED",
+            "CALL_DATE": 1668608503000,
+            "I_MAPX": 6051508,
+            "I_MAPY": 2126548,
+            "I_STATUSID": "C",
+            "ILO_BEAT": "08X",
+            "I_REPORTINGDISTRICT": "CCD3",
+            "CALL_DATE_STR": "11/16/22  2:21:43 PM",
+            "TIMEUPDATE": 1668608504000,
+            "POL_BEAT": "8",
+            "POL_DIST": "2",
+            "POL_SECT": "1"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.1985824,
+                37.7761038
+            ]
+        },
+        "properties": {
+            "OBJECTID": 1636300,
+            "I_EVENTNUMBER": "LOP221116000634",
+            "LOCATION": "2498 RAWSON ST",
+            "STREET": "RAWSON ST",
+            "CALL_ID": "905",
+            "CALL_DESC": "ABANDONED AUTOMOBILE",
+            "CALL_DATE": 1668608591000,
+            "I_MAPX": 6070778,
+            "I_MAPY": 2109512,
+            "I_STATUSID": "A",
+            "ILO_BEAT": "27X",
+            "I_REPORTINGDISTRICT": "CCD4",
+            "CALL_DATE_STR": "11/16/22  2:23:11 PM",
+            "TIMEUPDATE": 1668608592000,
+            "POL_BEAT": "27",
+            "POL_DIST": "4",
+            "POL_SECT": "3"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.2661652,
+                37.8052433
+            ]
+        },
+        "properties": {
+            "OBJECTID": 1636301,
+            "I_EVENTNUMBER": "LOP221116000635",
+            "LOCATION": "17TH ST&HARRISON ST",
+            "STREET": "ST&HARRISON ST",
+            "CALL_ID": "459AU",
+            "CALL_DESC": "AUTO BURGLARY",
+            "CALL_DATE": 1668608657000,
+            "I_MAPX": 6051449,
+            "I_MAPY": 2120482,
+            "I_STATUSID": "P",
+            "ILO_BEAT": "04X",
+            "I_REPORTINGDISTRICT": "CCD3",
+            "CALL_DATE_STR": "11/16/22  2:24:17 PM",
+            "TIMEUPDATE": 1668608657000,
+            "POL_BEAT": "4",
+            "POL_DIST": "1",
+            "POL_SECT": "1"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.1840412,
+                37.7348991
+            ]
+        },
+        "properties": {
+            "OBJECTID": 1636302,
+            "I_EVENTNUMBER": "LOP221116000636",
+            "LOCATION": "9800 MADDUX DR",
+            "STREET": "MADDUX DR",
+            "CALL_ID": "R10851",
+            "CALL_DESC": "RECOVERED STOLEN VEH",
+            "CALL_DATE": 1668608703000,
+            "I_MAPX": 6074710,
+            "I_MAPY": 2094435,
+            "I_STATUSID": "A",
+            "ILO_BEAT": "31Y",
+            "I_REPORTINGDISTRICT": "CCD7",
+            "CALL_DATE_STR": "11/16/22  2:25:03 PM",
+            "TIMEUPDATE": 1668608735000,
+            "POL_BEAT": "31",
+            "POL_DIST": "5",
+            "POL_SECT": "3"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.2224383,
+                37.7844046
+            ]
+        },
+        "properties": {
+            "OBJECTID": 1636303,
+            "I_EVENTNUMBER": "LOP221116000638",
+            "LOCATION": "2112 FRUITVALE AV",
+            "STREET": "FRUITVALE AV",
+            "CALL_ID": "911C",
+            "CALL_DESC": "911 HANG UP FROM CP",
+            "CALL_DATE": 1668608723000,
+            "I_MAPX": 6063940,
+            "I_MAPY": 2112660,
+            "I_STATUSID": "C",
+            "ILO_BEAT": "21Y",
+            "I_REPORTINGDISTRICT": "CCD5",
+            "CALL_DATE_STR": "11/16/22  2:25:23 PM",
+            "TIMEUPDATE": 1668608728000,
+            "POL_BEAT": "21",
+            "POL_DIST": "3",
+            "POL_SECT": "2"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.1757594,
+                37.7524565
+            ]
+        },
+        "properties": {
+            "OBJECTID": 1636304,
+            "I_EVENTNUMBER": "LOP221116000637",
+            "LOCATION": "1466 AUSEON AV",
+            "STREET": "AUSEON AV",
+            "CALL_ID": "901B",
+            "CALL_DESC": "VEHICLE COLLISION-UN",
+            "CALL_DATE": 1668608722000,
+            "I_MAPX": 6077219,
+            "I_MAPY": 2100784,
+            "I_STATUSID": "P",
+            "ILO_BEAT": "34X",
+            "I_REPORTINGDISTRICT": "CCD7",
+            "CALL_DATE_STR": "11/16/22  2:25:22 PM",
+            "TIMEUPDATE": 1668608722000,
+            "POL_BEAT": "34",
+            "POL_DIST": "5",
+            "POL_SECT": "3"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.2451656,
+                37.7999717
+            ]
+        },
+        "properties": {
+            "OBJECTID": 1636305,
+            "I_EVENTNUMBER": "LOP221116000639",
+            "LOCATION": "632 E 22ND ST",
+            "STREET": "E 22ND ST",
+            "CALL_ID": "459",
+            "CALL_DESC": "BURGLARY",
+            "CALL_DATE": 1668608732000,
+            "I_MAPX": 6057479,
+            "I_MAPY": 2118449,
+            "I_STATUSID": "P",
+            "ILO_BEAT": "17Y",
+            "I_REPORTINGDISTRICT": "CCD2",
+            "CALL_DATE_STR": "11/16/22  2:25:32 PM",
+            "TIMEUPDATE": 1668608732000,
+            "POL_BEAT": "17",
+            "POL_DIST": "3",
+            "POL_SECT": "2"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.2644069,
+                37.8080275
+            ]
+        },
+        "properties": {
+            "OBJECTID": 1636306,
+            "I_EVENTNUMBER": "LOP221116000640",
+            "LOCATION": "HARRISON ST&LAKESIDE DR",
+            "STREET": "ST&LAKESIDE DR",
+            "CALL_ID": "459AU",
+            "CALL_DESC": "AUTO BURGLARY",
+            "CALL_DATE": 1668608739000,
+            "I_MAPX": 6051976,
+            "I_MAPY": 2121486,
+            "I_STATUSID": "P",
+            "ILO_BEAT": "04X",
+            "I_REPORTINGDISTRICT": "CCD3",
+            "CALL_DATE_STR": "11/16/22  2:25:39 PM",
+            "TIMEUPDATE": 1668608745000,
+            "POL_BEAT": "4",
+            "POL_DIST": "1",
+            "POL_SECT": "1"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.1747304,
+                37.753004
+            ]
+        },
+        "properties": {
+            "OBJECTID": 1636307,
+            "I_EVENTNUMBER": "LOP221116000641",
+            "LOCATION": "AUSEON AV&HOLLY ST",
+            "STREET": "AV&HOLLY ST",
+            "CALL_ID": "20001",
+            "CALL_DESC": "HIT & RUN RESULTING",
+            "CALL_DATE": 1668608814000,
+            "I_MAPX": 6077520,
+            "I_MAPY": 2100978,
+            "I_STATUSID": "A",
+            "ILO_BEAT": "34X",
+            "I_REPORTINGDISTRICT": "CCD7",
+            "CALL_DATE_STR": "11/16/22  2:26:54 PM",
+            "TIMEUPDATE": 1668609358000,
+            "POL_BEAT": "34",
+            "POL_DIST": "5",
+            "POL_SECT": "3"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.2907156,
+                37.8154951
+            ]
+        },
+        "properties": {
+            "OBJECTID": 1636308,
+            "I_EVENTNUMBER": "LOP221116000589",
+            "LOCATION": "1600 20TH ST",
+            "STREET": "20TH ST",
+            "CALL_ID": "R10851",
+            "CALL_DESC": "RECOVERED STOLEN VEH",
+            "CALL_DATE": 1668605801000,
+            "I_MAPX": 6044429,
+            "I_MAPY": 2124349,
+            "I_STATUSID": "C",
+            "ILO_BEAT": "05Y",
+            "I_REPORTINGDISTRICT": "CCD3",
+            "CALL_DATE_STR": "11/16/22  1:36:41 PM",
+            "TIMEUPDATE": 1668608926000,
+            "POL_BEAT": "5",
+            "POL_DIST": "1",
+            "POL_SECT": "1"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.259488,
+                37.8098122
+            ]
+        },
+        "properties": {
+            "OBJECTID": 1636309,
+            "I_EVENTNUMBER": "LOP221116000643",
+            "LOCATION": "699 BELLEVUE AV",
+            "STREET": "BELLEVUE AV",
+            "CALL_ID": "SECCK",
+            "CALL_DESC": "SECURITY CHECK",
+            "CALL_DATE": 1668608981000,
+            "I_MAPX": 6053409,
+            "I_MAPY": 2122109,
+            "I_STATUSID": "A",
+            "ILO_BEAT": "14X",
+            "I_REPORTINGDISTRICT": "CCD3",
+            "CALL_DATE_STR": "11/16/22  2:29:41 PM",
+            "TIMEUPDATE": 1668608982000,
+            "POL_BEAT": "14",
+            "POL_DIST": "2",
+            "POL_SECT": "2"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.1371636,
+                37.7757505
+            ]
+        },
+        "properties": {
+            "OBJECTID": 1636310,
+            "I_EVENTNUMBER": "LOP221116000645",
+            "LOCATION": "7901 SURREY LN",
+            "STREET": "SURREY LN",
+            "CALL_ID": "933MA",
+            "CALL_DESC": "ALARM-MANUALLY ACTIV",
+            "CALL_DATE": 1668609042000,
+            "I_MAPX": 6088524,
+            "I_MAPY": 2109067,
+            "I_STATUSID": "P",
+            "ILO_BEAT": "25Y",
+            "I_REPORTINGDISTRICT": "CCD6",
+            "CALL_DATE_STR": "11/16/22  2:30:42 PM",
+            "TIMEUPDATE": 1668609042000,
+            "POL_BEAT": "25",
+            "POL_DIST": "4",
+            "POL_SECT": "2"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.1850789,
+                37.7840216
+            ]
+        },
+        "properties": {
+            "OBJECTID": 1636311,
+            "I_EVENTNUMBER": "LOP221116000644",
+            "LOCATION": "EB I580&EB SEMINARY OFFRP AV",
+            "STREET": "I580&EB SEMINARY OFFRP AV",
+            "CALL_ID": "901",
+            "CALL_DESC": "VEHICLE COLLISION/PR",
+            "CALL_DATE": 1668609039000,
+            "I_MAPX": 6074732,
+            "I_MAPY": 2112324,
+            "I_STATUSID": "P",
+            "ILO_BEAT": "28X",
+            "I_REPORTINGDISTRICT": "CCD6",
+            "CALL_DATE_STR": "11/16/22  2:30:39 PM",
+            "TIMEUPDATE": 1668609039000,
+            "POL_BEAT": "28",
+            "POL_DIST": "4",
+            "POL_SECT": "3"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.2743715,
+                37.7995112
+            ]
+        },
+        "properties": {
+            "OBJECTID": 1636312,
+            "I_EVENTNUMBER": "LOP221116000647",
+            "LOCATION": "455 7TH ST",
+            "STREET": "7TH ST",
+            "CALL_ID": "INFO",
+            "CALL_DESC": "BEAT INFORMATION",
+            "CALL_DATE": 1668609150000,
+            "I_MAPX": 6049039,
+            "I_MAPY": 2118440,
+            "I_STATUSID": "C",
+            "ILO_BEAT": "03Y",
+            "I_REPORTINGDISTRICT": "CCD3",
+            "CALL_DATE_STR": "11/16/22  2:32:30 PM",
+            "TIMEUPDATE": 1668609286000,
+            "POL_BEAT": "3",
+            "POL_DIST": "1",
+            "POL_SECT": "1"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.260515,
+                37.8112225
+            ]
+        },
+        "properties": {
+            "OBJECTID": 1636313,
+            "I_EVENTNUMBER": "LOP221116000646",
+            "LOCATION": "100 BAY PL",
+            "STREET": "BAY PL",
+            "CALL_ID": "MSDIAL",
+            "CALL_DESC": "MISDIAL",
+            "CALL_DATE": 1668609126000,
+            "I_MAPX": 6053122,
+            "I_MAPY": 2122628,
+            "I_STATUSID": "C",
+            "ILO_BEAT": "14X",
+            "I_REPORTINGDISTRICT": "CCD3",
+            "CALL_DATE_STR": "11/16/22  2:32:06 PM",
+            "TIMEUPDATE": 1668609126000,
+            "POL_BEAT": "14",
+            "POL_DIST": "2",
+            "POL_SECT": "2"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.2184175,
+                37.7672409
+            ]
+        },
+        "properties": {
+            "OBJECTID": 1636314,
+            "I_EVENTNUMBER": "LOP221116000648",
+            "LOCATION": "742 45TH AV",
+            "STREET": "45TH AV",
+            "CALL_ID": "911C",
+            "CALL_DESC": "911 HANG UP FROM CP",
+            "CALL_DATE": 1668609205000,
+            "I_MAPX": 6064987,
+            "I_MAPY": 2106390,
+            "I_STATUSID": "C",
+            "ILO_BEAT": "26X",
+            "I_REPORTINGDISTRICT": "CCD5",
+            "CALL_DATE_STR": "11/16/22  2:33:25 PM",
+            "TIMEUPDATE": 1668609206000,
+            "POL_BEAT": "26",
+            "POL_DIST": "4",
+            "POL_SECT": "3"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.1732295,
+                37.7508746
+            ]
+        },
+        "properties": {
+            "OBJECTID": 1636315,
+            "I_EVENTNUMBER": "LOP221116000650",
+            "LOCATION": "8925 HOLLY ST",
+            "STREET": "HOLLY ST",
+            "CALL_ID": "911C",
+            "CALL_DESC": "911 HANG UP FROM CP",
+            "CALL_DATE": 1668609420000,
+            "I_MAPX": 6077940,
+            "I_MAPY": 2100195,
+            "I_STATUSID": "C",
+            "ILO_BEAT": "34X",
+            "I_REPORTINGDISTRICT": "CCD7",
+            "CALL_DATE_STR": "11/16/22  2:37:00 PM",
+            "TIMEUPDATE": 1668609421000,
+            "POL_BEAT": "34",
+            "POL_DIST": "5",
+            "POL_SECT": "3"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.2766492,
+                37.8097774
+            ]
+        },
+        "properties": {
+            "OBJECTID": 1636316,
+            "I_EVENTNUMBER": "LOP221116000652",
+            "LOCATION": "18TH ST&BRUSH ST",
+            "STREET": "ST&BRUSH ST",
+            "CALL_ID": "945A",
+            "CALL_DESC": "AMBULANCE REQUESTED",
+            "CALL_DATE": 1668609429000,
+            "I_MAPX": 6048452,
+            "I_MAPY": 2122190,
+            "I_STATUSID": "C",
+            "ILO_BEAT": "05X",
+            "I_REPORTINGDISTRICT": "CCD3",
+            "CALL_DATE_STR": "11/16/22  2:37:09 PM",
+            "TIMEUPDATE": 1668609429000,
+            "POL_BEAT": "5",
+            "POL_DIST": "1",
+            "POL_SECT": "1"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.2346021,
+                37.7998968
+            ]
+        },
+        "properties": {
+            "OBJECTID": 1636317,
+            "I_EVENTNUMBER": "LOP221116000651",
+            "LOCATION": "13TH AV&E 31ST ST",
+            "STREET": "AV&E 31ST ST",
+            "CALL_ID": "242",
+            "CALL_DESC": "BATTERY",
+            "CALL_DATE": 1668609429000,
+            "I_MAPX": 6060530,
+            "I_MAPY": 2118365,
+            "I_STATUSID": "P",
+            "ILO_BEAT": "17Y",
+            "I_REPORTINGDISTRICT": "CCD2",
+            "CALL_DATE_STR": "11/16/22  2:37:09 PM",
+            "TIMEUPDATE": 1668609429000,
+            "POL_BEAT": "17",
+            "POL_DIST": "3",
+            "POL_SECT": "2"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.2221075,
+                37.7911803
+            ]
+        },
+        "properties": {
+            "OBJECTID": 1636318,
+            "I_EVENTNUMBER": "LOP221116000656",
+            "LOCATION": "2633 E 27TH ST",
+            "STREET": "E 27TH ST",
+            "CALL_ID": "MP",
+            "CALL_DESC": "MISSING PERSON",
+            "CALL_DATE": 1668609474000,
+            "I_MAPX": 6064081,
+            "I_MAPY": 2115125,
+            "I_STATUSID": "P",
+            "ILO_BEAT": "21X",
+            "I_REPORTINGDISTRICT": "CCD5",
+            "CALL_DATE_STR": "11/16/22  2:37:54 PM",
+            "TIMEUPDATE": 1668609483000,
+            "POL_BEAT": "21",
+            "POL_DIST": "3",
+            "POL_SECT": "2"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.1991728,
+                37.7943505
+            ]
+        },
+        "properties": {
+            "OBJECTID": 1636319,
+            "I_EVENTNUMBER": "LOP221116000655",
+            "LOCATION": "3525 KANSAS ST",
+            "STREET": "KANSAS ST",
+            "CALL_ID": "911C",
+            "CALL_DESC": "911 HANG UP FROM CP",
+            "CALL_DATE": 1668609467000,
+            "I_MAPX": 6070728,
+            "I_MAPY": 2116158,
+            "I_STATUSID": "C",
+            "ILO_BEAT": "25X",
+            "I_REPORTINGDISTRICT": "CCD4",
+            "CALL_DATE_STR": "11/16/22  2:37:47 PM",
+            "TIMEUPDATE": 1668609471000,
+            "POL_BEAT": "25",
+            "POL_DIST": "4",
+            "POL_SECT": "2"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.1931535,
+                37.7676339
+            ]
+        },
+        "properties": {
+            "OBJECTID": 1636320,
+            "I_EVENTNUMBER": "LOP221116000657",
+            "LOCATION": "6114 HAYES ST",
+            "STREET": "HAYES ST",
+            "CALL_ID": "WELCK",
+            "CALL_DESC": "WELFARE CHECK -- CHE",
+            "CALL_DATE": 1668609492000,
+            "I_MAPX": 6072291,
+            "I_MAPY": 2106400,
+            "I_STATUSID": "P",
+            "ILO_BEAT": "27Y",
+            "I_REPORTINGDISTRICT": "CCD6",
+            "CALL_DATE_STR": "11/16/22  2:38:12 PM",
+            "TIMEUPDATE": 1668609493000,
+            "POL_BEAT": "27",
+            "POL_DIST": "4",
+            "POL_SECT": "3"
         }
     }
 ]
