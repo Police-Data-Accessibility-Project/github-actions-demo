@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Check out the repo
-    - uses: actions/checkout@v2
+      uses: actions/checkout@v2
     - name: Install package manager for deps
       run: pipx install pipenv
     - uses: actions/setup-python@v2
