@@ -9,7 +9,7 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout the repo
+    - name: Check out the repo
     - uses: actions/checkout@v2
     - name: Install package manager for deps
       run: pipx install pipenv
