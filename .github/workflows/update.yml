@@ -21,4 +21,4 @@ jobs:
     - name: Install deps
       run: pipenv install
     - name: Run that scraper, please
-      run: python scrape.py
+      run: pipenv run python scrape.py
