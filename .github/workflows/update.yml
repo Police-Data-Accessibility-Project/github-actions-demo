@@ -29,4 +29,4 @@ jobs:
       with:
         committer_name: Automated
         committer_email: actions@users.noreply.github.com
-        message: "Latest data ${{ `date -u` }}"
+        message: "Latest data"
