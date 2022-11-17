@@ -19,6 +19,7 @@ def get_raw_data(target):
 
 
 def write_raw(data, location):
+    # should always be formatted as json
     with open(location, "w+") as f:
         json.dump(data, f, indent=4)
 
