@@ -3,7 +3,7 @@ name: Scrape Oakland calls for service
 
 on:
   schedule:
-  - cron: "0 19 * * *"
+  - cron: "0 */8 * * *"
   workflow_dispatch:
 
 jobs:
