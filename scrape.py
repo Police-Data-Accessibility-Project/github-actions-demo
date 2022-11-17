@@ -24,6 +24,10 @@ def write_raw(data, location):
 
 
 def process_raw_data(feature):
+    # there's more we could be doing here -- massaging datetime formats,
+    # excluding empty records (why they have IDs, I have no idea),
+    # cleaning up headers to make them easier to understand,
+    # adding in lat/lngs where they exist
     row = feature["properties"]
     yield row
 
