@@ -8,5 +8,3 @@ We're using [GitHub Actions](https://github.com/features/actions) to scrape call
 It gives us, in this case, cron capability and free storage ([to a point](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions)) for any scraper we tell it how to run.
 
 It will also monitor the jobs for us and commit and push back to the repo any new data it finds at our endpoint. All without us having to do anything beyond setting it up in `.github/workflows/update.yml`.
-
-
