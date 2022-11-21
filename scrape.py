@@ -4,6 +4,7 @@
 import csv
 from datetime import date
 import json
+import logging
 
 # third-party imports
 from esridump.dumper import EsriDumper
@@ -84,14 +85,27 @@ def write_to_csv(data, location):
 
 
 def run_the_jewels(target, location_raw, location_csv):
-    raw = get_raw_data(target)
-    # custom type in response isn't directly serializable;
-    # also only want to hit the target endpoint once
-    raw_as_list = list(raw)
-    write_raw(raw_as_list, location_raw)
+    raw = None
+    try:
+        # there's a decent amount of resilience built in to EsriDumper,
+        # but the request can still timeout or otherwise go awry
+        # https://github.com/openaddresses/pyesridump/blob/master/esridump/dumper.py
+        raw = get_raw_data(target)
+    except Exception as e:
+        # TODO: log here, probably;
+        # could also send email from here, but maybe better to
+        # allow the Action to handle it and keep this decoupled so
+        # it can run manually with less mess
+        pass
 
-    processed = (process_raw_data(feature) for feature in raw_as_list)
-    write_to_csv(processed, location_csv)
+    if raw:
+        # custom type in response isn't directly serializable;
+        # also only want to hit the target endpoint once
+        raw_as_list = list(raw)
+        write_raw(raw_as_list, location_raw)
+
+        processed = (process_raw_data(feature) for feature in raw_as_list)
+        write_to_csv(processed, location_csv)
 
 
 if __name__ == "__main__":
