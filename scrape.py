@@ -31,6 +31,9 @@ def process_raw_data(feature):
     # cleaning up headers to make them easier to understand,
     # adding in lat/lngs where they exist
     row = feature["properties"]
+    if feature["geometry"]:
+        row["COORDS"] = feature["geometry"]["coordinates"]
+
     yield row
 
 
@@ -45,6 +48,7 @@ def write_to_csv(data, location):
         "CALL_ID",
         "CALL_DESC",
         "CALL_DATE",
+        "COORDS",
         "I_MAPX",
         "I_MAPY",
         "I_STATUSID",
@@ -71,6 +75,7 @@ def write_to_csv(data, location):
                 "CALL_ID": row["CALL_ID"],
                 "CALL_DESC": row["CALL_DESC"],
                 "CALL_DATE": row["CALL_DATE"],
+                "COORDS": row["COORDS"]
                 "I_MAPX": row["I_MAPX"],
                 "I_MAPY": row["I_MAPY"],
                 "I_STATUSID": row["I_STATUSID"],
