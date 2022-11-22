@@ -32,6 +32,8 @@ def process_raw_data(feature):
     row = feature["properties"]
     if feature["geometry"]:
         row["COORDS"] = feature["geometry"]["coordinates"]
+    else:
+        row["COORDS"] = None
 
     yield row
 
