@@ -1,0 +1,94 @@
+[
+    {
+        "type": "Feature",
+        "geometry": null,
+        "properties": {
+            "OBJECTID": 709572,
+            "I_EVENTNUMBER": null,
+            "LOCATION": null,
+            "STREET": null,
+            "CALL_ID": null,
+            "CALL_DESC": null,
+            "CALL_DATE": null,
+            "I_MAPX": null,
+            "I_MAPY": null,
+            "I_STATUSID": null,
+            "ILO_BEAT": null,
+            "I_REPORTINGDISTRICT": null,
+            "CALL_DATE_STR": null,
+            "TIMEUPDATE": null,
+            "POL_BEAT": null,
+            "POL_DIST": null,
+            "POL_SECT": null
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": null,
+        "properties": {
+            "OBJECTID": 1317192,
+            "I_EVENTNUMBER": null,
+            "LOCATION": null,
+            "STREET": null,
+            "CALL_ID": null,
+            "CALL_DESC": null,
+            "CALL_DATE": null,
+            "I_MAPX": null,
+            "I_MAPY": null,
+            "I_STATUSID": null,
+            "ILO_BEAT": null,
+            "I_REPORTINGDISTRICT": null,
+            "CALL_DATE_STR": null,
+            "TIMEUPDATE": null,
+            "POL_BEAT": null,
+            "POL_DIST": null,
+            "POL_SECT": null
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": null,
+        "properties": {
+            "OBJECTID": 1329386,
+            "I_EVENTNUMBER": null,
+            "LOCATION": null,
+            "STREET": null,
+            "CALL_ID": null,
+            "CALL_DESC": null,
+            "CALL_DATE": null,
+            "I_MAPX": null,
+            "I_MAPY": null,
+            "I_STATUSID": null,
+            "ILO_BEAT": null,
+            "I_REPORTINGDISTRICT": null,
+            "CALL_DATE_STR": null,
+            "TIMEUPDATE": null,
+            "POL_BEAT": null,
+            "POL_DIST": null,
+            "POL_SECT": null
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": null,
+        "properties": {
+            "OBJECTID": 1528376,
+            "I_EVENTNUMBER": null,
+            "LOCATION": null,
+            "STREET": null,
+            "CALL_ID": null,
+            "CALL_DESC": null,
+            "CALL_DATE": null,
+            "I_MAPX": null,
+            "I_MAPY": null,
+            "I_STATUSID": null,
+            "ILO_BEAT": null,
+            "I_REPORTINGDISTRICT": null,
+            "CALL_DATE_STR": null,
+            "TIMEUPDATE": null,
+            "POL_BEAT": null,
+            "POL_DIST": null,
+            "POL_SECT": null
+        }
+    }
+]
