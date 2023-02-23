@@ -2,6 +2,10 @@
 This repo is a demo for scraping on a schedule with GitHub Actions. It's a work in progress.
 
 ## What's happening?
+
+# NOTE:
+*The city of Oakland [reported a ransomware attack](https://www.oaklandca.gov/news/2023/city-of-oakland-targeted-by-ransomware-attack-core-services-not-affected) that seems to have affected this data. February 9 is the last day the city posted new data. For February 10, the data is identical to the day before. There was no data at all posted for February 11 and 12. And since February 13, the data again repeats, identically, what the city had available February 9. We've notified the city of Oakland and will note here when there is a fix.*
+
 We're using [GitHub Actions](https://github.com/features/actions) to scrape calls for service from Oakland, CA. It's the same information you can find [here](https://www.arcgis.com/home/webmap/viewer.html?url=http%3A%2F%2Fgismaps.oaklandca.gov%2Foaklandgis%2Frest%2Fservices%2Fcallforservice_2015_FC%2FFeatureServer%2F0&source=sd), but in CSV form. If you'd like more information, [here's all we know about the Data Source](https://airtable.com/shrUAtA8qYasEaepI/tblx8XaKnFTphWNQM/viw9mmOR0fw8HFOje/rec993D5V56tjO2UB).
 
 ## Why GitHub Actions?
