@@ -43,7 +43,7 @@ jobs:
         uses: nobrayner/discord-webhook@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          discord-webhook: ${{ secrets.discord-failure-webhook }}
+          discord-webhook: ${{ secrets.DISCORD_ALERT_WEBHOOK }}
           username: 'GitHub Action Pipeline Failure Notification'
           avatar-url: 'https://pdap.io/assets/acronym-4d931b2f.svg'
           title: '${{ github.repository }}: {{Status}}'
