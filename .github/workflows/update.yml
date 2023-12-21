@@ -16,7 +16,7 @@ jobs:
       run: pipx install pipenv
     - uses: actions/setup-python@v2
       with:
-        python-version: "3.11"
+        python-version: "3.110"
         cache: "pipenv"
     - name: Install deps
       run: pipenv install
@@ -36,7 +36,7 @@ jobs:
     runs-on: ubuntu-latest
     needs: 
       - scrape  # Ensure notification is sent after the scrape job
-    if: ${{ always() }} # Trigger only on failure ${{ failure() }} 
+    if: ${{ failure() }} # Trigger only on failure ${{ failure() }} 
 
     steps:
       - name: Notify Discord
