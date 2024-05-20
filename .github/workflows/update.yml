@@ -1,4 +1,3 @@
-
 name: Scrape Oakland calls for service
 
 on:
@@ -30,3 +29,23 @@ jobs:
         committer_name: Automated
         committer_email: actions@users.noreply.github.com
         message: "Latest data"
+
+
+  notify:
+    runs-on: ubuntu-latest
+    needs: 
+      - scrape  # Ensure notification is sent after the scrape job
+    if: ${{ failure() }} # Trigger only on failure ${{ failure() }} 
+
+    steps:
+      - name: Notify Discord
+        uses: nobrayner/discord-webhook@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          discord-webhook: ${{ secrets.DISCORD_ALERT_WEBHOOK }}
+          username: 'GitHub Action Pipeline Failure Notification'
+          avatar-url: 'https://pdap.io/assets/acronym-4d931b2f.svg'
+          title: '${{ github.repository }}: {{Status}}'
+          description: 'The repository ${{ github.repository }} had an event: ${{ github.event_name }} which trigged this {{STATUS}}!'
+          include-details: false
+          color-failure: 'eb4034'
