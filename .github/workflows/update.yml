@@ -27,6 +27,8 @@ jobs:
       id: add_commit
       uses: EndBug/add-and-commit@v8
       with:
+        add: 'raw/*.json'
+        add: 'csv/*.csv'
         committer_name: Automated
         committer_email: actions@users.noreply.github.com
         message: "Latest data"
